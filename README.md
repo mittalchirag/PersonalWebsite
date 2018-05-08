@@ -1,2 +1,9 @@
-# PersonalWebsite
-My personal portfolio website developed from scratch using HTML5, CSS3, jQuery and MDBootstrap
+# Personal Website
+My personal portfolio website developed from scratch.
+
+Technologies Used:
+*HTML5
+*CSS3
+*jQuery
+*Bootstrap
+
